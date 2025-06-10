@@ -18,7 +18,7 @@ A simple and stylish task management app built with **ReactJS**. It allows users
 
 ## 🖼️ UI Preview
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./public/screenshot.png)
 
 ---
 
