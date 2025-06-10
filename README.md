@@ -34,13 +34,21 @@ A simple and stylish task management app built with **ReactJS**. It allows users
 
 ## 📦 Installation
 
-```
+### Clone the repository
+
+```bash
 git clone https://github.com/Inshiya1904/Task-Management-Application.git
 cd Task-Management-Application
 ```
 
-### Clone the repository
+### Install dependencies
 
 ```bash
-git clone https://github.com/yourusername/task-manager-app.git
-cd task-manager-app
+npm install
+```
+
+### Start the app
+
+```bash
+npm run dev
+```
