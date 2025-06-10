@@ -28,7 +28,7 @@ A simple and stylish task management app built with **ReactJS**. It allows users
 - CSS (custom styling)
 - HTML
 - JavaScript (ES6+)
-- localStorage API
+- localStorage 
 
 ---
 
