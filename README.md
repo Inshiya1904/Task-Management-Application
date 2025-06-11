@@ -1,7 +1,6 @@
 # 📝 React Task Management Application
 
-A simple and stylish task management app built with **ReactJS**. It allows users to add, edit, delete, mark complete, and filter tasks. Tasks are also persisted using **localStorage** and come with due dates, creation timestamps, and confirmation modals.
-
+A simple and stylish task management app built with ReactJS. It allows users to add, edit, delete, mark complete, and filter tasks. Tasks are also persisted using localStorage, creation timestamps, and confirmation modals.
 ---
 
 ## 🚀 Features
